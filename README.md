@@ -1,2 +1,2 @@
 # CTF-Scripts
-Various Scripts to help solve CTF challenges
+This repository will contain any scripts created to solve script related CTF challenges.
