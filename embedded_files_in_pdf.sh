@@ -1,7 +1,8 @@
 #!/bin/bash
-pwd=$(pwd)
-echo $pwd
+
+#This assumes the pdf is in the same directory
 pdfdetach -saveall "zod.pdf"
+#when attachment is open, it is 1000.pdf and counts down from there.
 count=1000
 
 while test $count != 0; do
